@@ -1,0 +1,4 @@
+rootProject.name = 'leetcode'
+include 'array'
+include 'sort'
+

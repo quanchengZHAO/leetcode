@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.leetcode.array.ReplaceElementsWithGreatestElementOnRightSideTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-11T17:16:50" hostname="DESKTOP-6VVM1FT" time="0.026">
+  <properties/>
+  <testcase name="test1()" classname="com.leetcode.array.ReplaceElementsWithGreatestElementOnRightSideTest" time="0.026"/>
+  <system-out><![CDATA[[18, 6, 6, 6, 1, -1]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
